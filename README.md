@@ -1,4 +1,7 @@
 📊 Super Store Sales Dashboard
+🖼️ Dashboard Preview
+<img width="1058" height="594" alt="Screenshot 2026-09-27 103020" src="https://github.com/user-attachments/assets/542687bb-742e-47c8-b0fd-cd07d8f0ad1b" />
+
 
 📌 Project Overview
 
@@ -103,7 +106,5 @@ The dashboard can be used to identify:
 
 
 
-🖼️ Dashboard Preview
-<img width="1058" height="594" alt="Screenshot 2026-09-27 103020" src="https://github.com/user-attachments/assets/542687bb-742e-47c8-b0fd-cd07d8f0ad1b" />
 
 
